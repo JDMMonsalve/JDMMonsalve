@@ -28,7 +28,7 @@ Every project I take on is an opportunity to learn something new and write bette
 | **Frontend** | [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev) |
 | **Backend** | [![My Skills](https://skillicons.dev/icons?i=python,flask,django)](https://skillicons.dev) |
 | **Databases** | [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev) |
-| **Tools & DevOps** | [![My Skills](https://skillicons.dev/icons?i=docker,github,git)](https://skillicons.dev) ![](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) |
+| **Tools & DevOps** | [![My Skills](https://skillicons.dev/icons?i=docker,github,git)](https://skillicons.dev) <img src="https://cdn.simpleicons.org/railway/white" alt="Railway" width="40" height="40"> |
 | **IDE & Extensions** | <img src="https://skillicons.dev/icons?i=vscode"/> <img src="https://pbs.twimg.com/profile_images/1990585614279049216/-Zz6T2nk_400x400.png" height="48"/> |
 ---
 ## 📊 GitHub Stats
