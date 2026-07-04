@@ -35,11 +35,11 @@ Every project I take on is an opportunity to learn something new and write bette
 
 <div align="center">
 
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=Miniyonminerat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=JDMMonsalve&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Miniyonminerat&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=JDMMonsalve&theme=dark&hide_border=false)
 
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Miniyonminerat&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JDMMonsalve&theme=dark&hide_border=false&layout=compact)
 
 </div>
 
@@ -48,7 +48,7 @@ Every project I take on is an opportunity to learn something new and write bette
 
 <div align="center">
 
-[![](https://github-trophies.vercel.app/?username=Miniyonminerat&theme=radical&no-frame=true&column=7)](https://github.com/Miniyonminerat)
+[![](https://github-trophies.vercel.app/?username=JDMMonsalve&theme=radical&no-frame=true&column=7)](https://github.com/JDMMonsalve)
 
 </div>
 ---
