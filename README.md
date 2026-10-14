@@ -4,7 +4,7 @@
 
 "In the process of becoming a Full Stack Developer, one line of code at a time." 🔥
 
-I'm a Full Stack Software Developer passionate about building functional, scalable, and well-structured web applications. I work across both frontend and backend development, combining user-focused interfaces with reliable server-side logic and database management.
+##I'm a Full Stack Software Developer passionate about building functional, scalable, and well-structured web applications. I work across both frontend and backend development, combining user-focused interfaces with reliable server-side logic and database management.##
 
 My technical skills include HTML, CSS, JavaScript, Python, Flask, and PostgreSQL. I'm also familiar with object-oriented programming, RESTful API development, and relational database design. I value clean code, problem-solving, teamwork, and collaborative development practices such as the Scrum methodology.
 
