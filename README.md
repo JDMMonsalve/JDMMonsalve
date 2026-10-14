@@ -4,8 +4,11 @@
 
 "In the process of becoming a Full Stack Developer, one line of code at a time." 🔥
 
-I'm a developer in training with less than a year of experience, but with a lot of discipline and eagerness to grow. I'm passionate about building functional and well-structured web applications, working across both the frontend and the backend.
-Every project I take on is an opportunity to learn something new and write better code. Currently deepening my skills in Django, JavaScript, and relational databases.
+I'm a Full Stack Software Developer passionate about building functional, scalable, and well-structured web applications. I work across both frontend and backend development, combining user-focused interfaces with reliable server-side logic and database management.
+
+My technical skills include HTML, CSS, JavaScript, Python, Flask, and PostgreSQL. I'm also familiar with object-oriented programming, RESTful API development, and relational database design. I value clean code, problem-solving, teamwork, and collaborative development practices such as the Scrum methodology.
+
+I'm constantly improving my skills through hands-on projects, learning new technologies, and refining my development practices. I'm looking forward to contributing to collaborative teams, tackling real-world challenges, and growing as a software developer while building solutions that make a difference.
 ---
 
 ## 🌐 Socials
